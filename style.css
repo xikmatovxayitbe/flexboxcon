@@ -1,0 +1,48 @@
+.container{
+    width: 1440px;
+    margin: 0 auto;
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+}
+body{
+background-color: #CD5D5D;
+}
+SPAN{
+    color:#F8FD0D;
+    ;
+}
+h1{
+color:#FFFFFF;
+text-align: center;
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 100px;
+}
+
+.box {
+    width: calc(33.333% - 40px);
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+nav{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.bb{
+    width: 300px;
+    height:140px;
+}
+
+.box{
+    width: 300px;
+    height:300px;
+    gap: 100px;
+}
